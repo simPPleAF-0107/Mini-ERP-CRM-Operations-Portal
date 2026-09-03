@@ -328,4 +328,4 @@ npm run preview       # Preview production build
 
 ## 📄 License
 
-This project is provided as a case study / assessment submission.
+NOT FOR FREE USE.
